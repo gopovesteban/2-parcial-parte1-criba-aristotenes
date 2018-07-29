@@ -18,6 +18,7 @@ public class CribaE {
 						primo[j] = false;
 					}
 				}
+				//
 			}
 			int cuenta = 0;
 			
